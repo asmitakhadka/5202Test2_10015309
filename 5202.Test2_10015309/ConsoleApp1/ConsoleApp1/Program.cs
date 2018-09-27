@@ -48,7 +48,7 @@ namespace ConsoleApp1
         }
         public static void askbird()
         {
-            Console.Clear();
+           
             Console.WriteLine("Information about the New Zealand Birds of Prey that have rescused and banded");
             Console.WriteLine("Bird object created and default data loaded...");
 
